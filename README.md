@@ -10,7 +10,7 @@ I'm Emir Berk, a JR. Software Developer 🚀🚀. I am also student. Learning ab
 **Talking about Personal Stuffs:**
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I know HTML, CSS, Bootstrap.
--  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" />  Im learning JS and trying to improve myself.
+-  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" />  Im learning React,asp.Net and trying to improve myself.
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Connect with me!!
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> My twitter is [@emirberkoncu](https://twitter.com/emirberkoncu)
 
